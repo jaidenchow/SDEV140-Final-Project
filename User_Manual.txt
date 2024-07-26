@@ -1,0 +1,16 @@
+﻿User Manual for Final Project
+
+BobaBuy GUI – 
+Shows the menu of drinks, as well as the price for each of the drinks on the right of the GUI.
+On the left, allows user to select which drink to order, and the specific topping, ice level, and sugar level for the drink. 
+
+User has the ability to not select a topping.
+
+The Add to Order button allows for users to add the drink to the order and reorder more drinks based on how many they want. If a user tries to add a drink to the order without selecting all of the criteria (topping, ice level, sugar level),
+it will present an error message and return the user to the menu screen.
+
+The checkout button then sums up all the drink prices and outputs the price for the user. If user tries to checkout without any drinks, shows an error message and returns user to menu screen. After that, the program will exit.
+
+Example – 
+
+User selects Tea, topping, ice level, and sugar level to a drink, and adds to order. User then adds another tea of choice, and then proceeds to checkout. After checkout is done, the program exits.
